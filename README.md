@@ -6,3 +6,10 @@ A simple HTTP server built using Java.
 ```bash
 javac SimpleHTTPServer.java
 java SimpleHTTPServer
+```
+
+## Features
+
+Basic HTTP request handling
+
+Lightweight and simple
